@@ -61,7 +61,7 @@ If you have any questions about the module, please contact the FAIMS team at **e
 <p align="left">
   <img src="https://github.com/FAIMS/ads-gravestones/blob/master/screenshots/Screenshot_20170913-104902.png" width="250"/>
   <img src="https://github.com/FAIMS/ads-gravestones/blob/master/screenshots/Screenshot_20170913-104954.png" width="250"/>
-  <img src="https://github.com/FAIMS/ads-gravestones/blob/master/screenshots/Screenshot_20170913-104902.png" width="250"/>
+  <img src="https://github.com/FAIMS/ads-gravestones/blob/master/screenshots/Screenshot_20170913-105010.png" width="250"/>
 </p>
 
 <p align="left">
