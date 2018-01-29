@@ -5,7 +5,7 @@ This module was created for the **The Archaeology Data Service**, based at the U
 This module was co-developed by Shawn Ross and Adela Sobotkova at the FAIMS Project, Department of Ancient History, Macquarie University, from the Gravestones module of the Flinders University
 
 ## Funding:
-Development of this module was funded by the Macquarie University Strategic Infrastructure Scheme (MQSIS) 20110089, for FAIMS infrastructure development and support in 2016. 
+Development of this module was funded by the **Macquarie University Strategic Infrastructure Scheme (MQSIS) 20110089**, for FAIMS infrastructure development and support in 2016 and by the **Research Attraction and Acceleration Program (RAAP) NSW Department of Industry 16805/00**, aimed to support innovation and investment in the New South Wales in 2016 and 2017.. 
 
 ## Date of release:
 December 2016 
